@@ -1,0 +1,24 @@
+{
+  "name": "tea-community-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rechargebus/tea-community-id.git"
+  },
+  "keywords": [
+    "tea",
+    "community"
+  ],
+  "author": "sainish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rechargebus/tea-community-id/issues"
+  },
+  "homepage": "https://github.com/rechargebus/tea-community-id#readme",
+  "source": "https://github.com/rechargebus/tea-community-id.git"
+}
