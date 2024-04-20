@@ -1,6 +1,6 @@
 {
   "name": "tea-community-id",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,11 @@
   "dependencies": {
     "alchemy-sdk": "^3.2.1",
     "ethers": "^6.12.0",
-    "tea-chalange": "^1.2.7"
+    "tea-chalange": "^1.2.7",
+    "tea-community-id": "^1.0.2",
+    "tea-community-user": "^1.0.1",
+    "tea-contributors": "^1.1.8",
+    "tea-user": "^1.0.2",
+    "tele-chain": "^1.2.1"
   }
 }
